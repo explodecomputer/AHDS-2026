@@ -1,0 +1,9 @@
+name: ahds_formative
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.4.3
+  - r-tidyverse=2.0.0
+  - r-haven=2.5.5
+  - r-janitor=2.2.1
